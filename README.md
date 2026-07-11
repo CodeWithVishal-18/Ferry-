@@ -10,7 +10,7 @@ This project focuses on mastering CSS animations, transforms, positioning, and k
 
 🎨 Dynamic color transitions
 
-🐶 Image-filled cabins with overflow handling
+🐶 Image-filled cabins with overflow handling (Optional)
 
 📐 Responsive design using viewport units
 
