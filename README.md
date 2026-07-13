@@ -1,10 +1,10 @@
-## Ferris Wheel Animation
+## Ferris Wheels Animation
 A visually engaging Ferris Wheel animation built using HTML and CSS.
 This project focuses on mastering CSS animations, transforms, positioning, and keyframes to create smooth rotational motion and synchronized elements.
 
 ## ✨ Highlights
 
-🎡 Fully animated rotating Ferris wheel
+🎡 Fully animated rotating Ferris wheels
 
 🎠 Independent cabin rotation using keyframes
 
