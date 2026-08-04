@@ -12,6 +12,8 @@ This project focuses on mastering CSS animations, transforms, positioning, and k
 
 🐶 Image-filled cabins with overflow handling (Optional)
 
+OPTIONAL:- After some time i will make this responsive for all devices
+
 
 ## 🛠️ Tech Stack
 
